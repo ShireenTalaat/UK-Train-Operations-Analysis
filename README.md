@@ -1,6 +1,6 @@
 # 🚆 UK Train Ride Analysis – Operational, Sales, Weather & Passenger Insights
 
-### 📊 Power BI Project by Shireen Talaat
+### 📊 Power BI Project by Ahmed Sobhy, Mohamed Ramadan, Ramez Mamdouh, Shireen Talaat
 
 This Power BI report presents an extensive end-to-end analysis of **UK train operations**, focusing on **operational efficiency**, **sales performance**, **weather impact**, and **passenger behavior**.  
 The dataset was cleaned, modeled, and analyzed to extract actionable insights that can help improve service reliability, revenue, and passenger satisfaction.
@@ -35,8 +35,9 @@ The Power BI data model integrates several related tables:
   A filtered table containing only **delayed or cancelled journeys due to weather conditions**, used for deep analysis.
 
 Key relationships:
-- `Railway[DepartureIndex]` ↔ `DepartureWeather[Index]`  
-- `Railway[ArrivalIndex]` ↔ `ArrivalWeather[Index]`
+- `Railway` ↔ `DepartureWeather`  
+- `Railway` ↔ `ArrivalWeather`
+- `Railway` ↔ `BankHolidays`
 
 ---
 
