@@ -1,6 +1,6 @@
 # 🚆 UK Train Ride Analysis – Operational, Sales, Weather & Passenger Insights
 
-### 📊 Power BI Project by Ahmed Sobhy, Mohamed Ramadan, Ramez Mamdouh, Shireen Talaat
+### 📊 Power BI Project by Shireen Talaat
 
 This Power BI report presents an extensive end-to-end analysis of **UK train operations**, focusing on **operational efficiency**, **sales performance**, **weather impact**, and **passenger behavior**.  
 The dataset was cleaned, modeled, and analyzed to extract actionable insights that can help improve service reliability, revenue, and passenger satisfaction.
