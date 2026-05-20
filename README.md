@@ -4,6 +4,7 @@
 
 This Power BI report presents an extensive end-to-end analysis of **UK train operations**, focusing on **operational efficiency**, **sales performance**, **weather impact**, and **passenger behavior**.  
 The dataset was cleaned, modeled, and analyzed to extract actionable insights that can help improve service reliability, revenue, and passenger satisfaction.
+![image alt](https://github.com/ShireenTalaat/UK-Train-Operations-Analysis/blob/a16ec2aed0ccbc88628fcad94139c2efbe23abe5/UKTrain.jpg)
 
 ---
 
